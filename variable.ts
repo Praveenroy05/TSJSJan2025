@@ -111,4 +111,7 @@ console.log(keyword); // true
 let union :string | boolean= "10"
 //union =50
 
+let m : number= 10 // 
+m  = "30"
+
 

@@ -70,3 +70,7 @@ if (true) {
 var g1 = 80;
 g1 = 1000;
 //const g = 100
+
+
+let m = 10 // 
+m  = "30"
